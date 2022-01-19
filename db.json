@@ -232,93 +232,9 @@
       "company": "marcos",
       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
       "category": "office"
-    },
-    {
-      "id": "recv2ohxljlK2FZO7",
-      "stock": 8,
-      "reviews": 230,
-      "stars": 4,
-      "name": "wooden bed",
-      "price": 2500.99,
-      "image": "https://dl.airtable.com/.attachmentThumbnails/1d692023f254ca11a3d1a3628d198081/e922a771",
-      "colors": [
-        "#000",
-        "#ffb900"
-      ],
-      "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "bedroom"
-    },
-    {
-      "id": "recJIjREF3dlFi3sR",
-      "stock": 5,
-      "reviews": 90,
-      "stars": 1.5,
-      "name": "wooden desk",
-      "price": 1509.99,
-      "image": "https://dl.airtable.com/.attachmentThumbnails/e3fa7aa6dc112c4998da18bb401bd70f/61e2fb5e",
-      "colors": [
-        "#000"
-      ],
-      "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "office",
-      "shipping": true
-    },
-    {
-      "id": "recm7wC8TBVdU9oEL",
-      "stock": 15,
-      "reviews": 310,
-      "stars": 4.3,
-      "name": "wooden desk",
-      "price": 400.99,
-      "image": "https://dl.airtable.com/.attachmentThumbnails/954dfa5c8ce3df84a3c7254481464366/a3bd8c4a",
-      "colors": [
-        "#0000ff",
-        "#00ff00"
-      ],
-      "company": "ikea",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "office"
-    },
-    {
-      "id": "rectfNsySwAJeWDN2",
-      "stock": 8,
-      "reviews": 136,
-      "stars": 2.8,
-      "name": "wooden table",
-      "price": 2349.99,
-      "image": "https://dl.airtable.com/.attachmentThumbnails/e8c2f821d05b9e4e5aa450a19e62ffa5/271fc3f5",
-      "featured": true,
-      "colors": [
-        "#ffb900",
-        "#ff0000"
-      ],
-      "company": "caressa",
-      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
-      "category": "kitchen",
-      "shipping": true
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
+    }, 
   ],
   "cart": [
-    {
-      "id": 6,
-      "pId": "recoAJYUCuEKxcPSr",
-      "name": "modern bookshelf",
-      "price": 319.99,
-      "image": "https://dl.airtable.com/.attachmentThumbnails/1e4a818f5184993e430420a152315b40/873c7094",
-      "colors": "#ff0000",
-      "company": "caressa",
-      "count": 1,
-      "email": "shivaneeratnaparkhi13@gmail.com"
-    },
     {
       "pId": "recroK1VD8qVdMP5H",
       "name": "suede armchair",
@@ -341,16 +257,6 @@
       "id": "eb424ce4-a1e0-4164-9371-8e15e7a7aff6",
       "email": "shivaneeratnaparkhi13@gmail.com"
     },
-    {
-      "pId": "recs5BSVU3qQrOj4E",
-      "name": "sofa set",
-      "colors": "#00ff00",
-      "count": 1,
-      "price": 1299.99,
-      "company": "marcos",
-      "image": "https://dl.airtable.com/.attachmentThumbnails/fe9d4f25fee307f6ae5b7a462b70b942/031464c4",
-      "id": "a2241b90-8d0b-4e3e-8b61-cf06db4e7bb5",
-      "email": "shivaneeratnaparkhi13@gmail.com"
-    }
+
   ]
 }
